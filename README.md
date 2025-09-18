@@ -5,7 +5,7 @@ Advanced NLP-based consistency analysis of AI development pull requests using TF
 ## 🚀 Quick Start
 
 ### Run in Google Colab (Recommended)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOURUSERNAME/aidev-dataset-analysis/blob/main/demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GFFy8-hCmyVT-X0bXIt0dG2cOKuplgMq#scrollTo=CiRpDF3AEZiE)
 
 ### Manual Installation
 ```bash
